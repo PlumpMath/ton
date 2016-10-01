@@ -1,5 +1,16 @@
 # ton
 
+## This is deprecated, all current work happens in [Planck][] itself
+
+This was a standalone port of [Planck][], which was then [merged into
+it](https://github.com/mfikes/planck/pull/299).  All future work happens
+in Planck itself, and then plan is for the C port to replace Planck in
+version 2.0.
+
+Everything below is preserved for posterity.
+
+---
+
 > The ton to your [planck][]
 
 `ton` is an attempt to bring [planck][] to Linux (and potentially other systems).
